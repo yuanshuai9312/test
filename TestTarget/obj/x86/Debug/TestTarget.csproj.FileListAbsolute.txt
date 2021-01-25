@@ -1,0 +1,10 @@
+D:\test\FriendlyTestSample-master\TestTarget\bin\x86\Debug\TestTarget.exe.config
+D:\test\FriendlyTestSample-master\TestTarget\bin\x86\Debug\TestTarget.exe
+D:\test\FriendlyTestSample-master\TestTarget\bin\x86\Debug\TestTarget.pdb
+D:\test\FriendlyTestSample-master\TestTarget\obj\x86\Debug\TestTarget.csprojAssemblyReference.cache
+D:\test\FriendlyTestSample-master\TestTarget\obj\x86\Debug\TestTarget.TestTarget.resources
+D:\test\FriendlyTestSample-master\TestTarget\obj\x86\Debug\TestTarget.Properties.Resources.resources
+D:\test\FriendlyTestSample-master\TestTarget\obj\x86\Debug\TestTarget.csproj.GenerateResource.cache
+D:\test\FriendlyTestSample-master\TestTarget\obj\x86\Debug\TestTarget.csproj.CoreCompileInputs.cache
+D:\test\FriendlyTestSample-master\TestTarget\obj\x86\Debug\TestTarget.exe
+D:\test\FriendlyTestSample-master\TestTarget\obj\x86\Debug\TestTarget.pdb
